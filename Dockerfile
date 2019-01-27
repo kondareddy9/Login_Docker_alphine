@@ -1,6 +1,6 @@
 FROM alpine:3.7
 
-MAINTAINER kondareddy9 <konda4@gmail.com>
+MAINTAINER kondareddy9<konda4@gmail.com>
 
 WORKDIR /usr/apps/hello-docker/
 
